@@ -10,7 +10,7 @@ info about the book. And when we are ready we are moving to the "Success" page.
 
 ## Project dependencies
 
-### create-react-app@5.0.0
+### `create-react-app@5.0.0`
 
 ## How to run the project
 
